@@ -1,0 +1,158 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    background-color: white;
+}
+
+.logo {
+    text-transform: uppercase;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    color: #2e2f42;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: none;
+}
+.web {
+    color: #4d5ae5;
+}
+
+header {
+    height: 72px;
+    border-bottom: 1px solid;
+}
+.nav-item {
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+.nav-list {
+    list-style-type: none;
+}
+.address-item {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+    text-decoration: none;
+}
+.address-list {
+    list-style-type: none;
+}
+
+.page-header {
+    background-color: #2e2f42;
+}
+
+.page-header-text {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background-color: #4d5ae5;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: white;
+}
+.goals-list {
+    list-style-type: none;
+}
+.goal-item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.goal-paragraph {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.team-list {
+    list-style-type: none;
+}
+.team-header {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+}
+.team-section {
+    background-color: #f4f4fd;
+}
+.team-item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.team-paragraph {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+.portfolio-list {
+    list-style-type: none;
+}
+.portfolio-header {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+}
+.portfolio-item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.portfolio-paragraph {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+footer {
+    background-color: #2e2f42;
+}
+.footer-web {
+    color: #4d5ae5;
+}
+.footer-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #f4f4fd;
+}
+.footer-paragraph {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
