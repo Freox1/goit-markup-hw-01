@@ -168,10 +168,10 @@ body {
     text-transform: uppercase;
     text-decoration: none;
     color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
 }
 .footer-paragraph {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    font-family: "Raleway", sans-serif;
 }
